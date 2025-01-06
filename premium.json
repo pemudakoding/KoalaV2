@@ -1,5 +1,8 @@
 {
-  "allowed_tokens": [
-    "7911390097:AAH2zTHMmBh-tZ0d9aDxT5jswh6w9aKC45Q"
+  "premium_users": [
+    {
+      "id": "627038678",
+      "expiredAt": 1736289198770
+    }
   ]
 }
